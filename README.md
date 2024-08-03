@@ -53,3 +53,10 @@ view from the bottom of the 10k dual spiral:
 
 ![image](https://github.com/user-attachments/assets/d93dee5b-e74d-4ba4-baa8-0be0576b61ca)
 
+
+
+# quadra_3d_spirals.py
+
+A 3 dimnesional quadra spiral of alternating numbers where non-prime numbers are represented as gray dots and prime numbers as black dots
+
+![image](https://github.com/user-attachments/assets/c121062f-03d9-422e-bf71-d6393d0aa448)
