@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-#define NUM_ZEROS 1000
+#define NUM_ZEROS 1000000000000
 
 // Function to compute the Riemann-Siegel Z function (approximation)
 double Z(double t) {
