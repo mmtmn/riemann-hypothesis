@@ -125,16 +125,16 @@ This code stops as soon as it finds a bucket that contains all primes and no non
 
 numbers: 1000
 
-Found a bucket with all primes in 150 bucket experiment.
-
-Bucket7 has all the primes.
+Found a bucket with all primes in 150 bucket experiment. Bucket7 has all the primes.
 
 
 numbers: 10000
 
-Found a bucket with all primes in 1470 bucket experiment.
+Found a bucket with all primes in 1470 bucket experiment. Bucket1279 has all the primes.
 
-Bucket1279 has all the primes.
 
+
+# single_buckets_checker.py (will probably have to move to C language for this)
+This code stops as soon as it finds a bucket where only one bucket contains all the prime numbers and no non-prime numbers, while the other buckets contain only non-prime numbers.
 
 numbers: 100000
