@@ -33,3 +33,14 @@ n_points = 10000
 A 3 dimnesional dual spiral of alternating numbers where non-prime numbers are represented as gray dots and prime numbers as black dots
 
 ![image](https://github.com/user-attachments/assets/e80d3084-f0bc-407a-aeaa-45ba7f7256a9)
+
+n_points = 1000
+
+![image](https://github.com/user-attachments/assets/224ecfaf-7809-489f-a534-381cc388fff5)
+
+n_points = 10000
+
+![image](https://github.com/user-attachments/assets/017de729-1389-4cae-9938-854a3fa09c8f)
+
+n_points = 10000
+
