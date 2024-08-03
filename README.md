@@ -1,3 +1,12 @@
+# rimann-hypothesis
+This repository explores a couple of experiments with prime numbers. It uses a RNN to attempt to predict the riemann hypothesis using scripts written in C.
+
+
+in the bin folder you'll find everything that is detailed bellow, which was part of exploring different ideas until landing on the reccurent neural networks in c.
+
+inside the bin folder you'll find all scripts that were used during this saturday morning exploration of the prime numbers and the riemann hypothesis.
+
+
 # spiral.py
 
 A spiral of numbers where non-prime numbers are represented as gray dots and prime numbers as black dots
