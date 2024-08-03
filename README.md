@@ -149,4 +149,12 @@ This code stops as soon as it finds an amount of buckets where only one bucket c
 
 
 # riemann.py
-this script will be checking zeros of the Riemann zeta function on the critical line, Re(s)=12Re(s)=21​. A "buckets" approach involves segmenting the range of the imaginary part of s into smaller intervals and analyzing the behavior of the zeta function within those segments.
+This script combines high-precision numerical exploration, machine learning prediction, and visualization for the Riemann Hypothesis.
+
+### Zeros on the critical line between 0 and 100: []
+### Predicted next zero: 49.10204728571429
+
+![image](https://github.com/user-attachments/assets/2ed90841-31e2-4218-bd49-12c37f481c3d)
+![image](https://github.com/user-attachments/assets/63d79050-3b88-44de-a32a-da5682ada33c)
+
+
