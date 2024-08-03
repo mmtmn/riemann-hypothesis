@@ -135,4 +135,4 @@ Found a bucket with all primes in 1470 bucket experiment. Bucket1279 has all the
 
 
 # single_buckets_checker.py
-This code stops as soon as it finds a bucket where only one bucket contains all the prime numbers and no non-prime numbers, while the other buckets contain only non-prime numbers.
+This code stops as soon as it finds an amount of buckets where only one bucket contains all the prime numbers and no other buckets have any prime numbers.
