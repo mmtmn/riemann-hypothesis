@@ -22,4 +22,5 @@ n_points = 10000
 
 
 ![image](https://github.com/user-attachments/assets/412de059-209f-48c0-977c-96ef05894316)
+
 n_points = 10000
