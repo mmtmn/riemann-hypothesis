@@ -115,4 +115,6 @@ if you increase the outwards variable (z_step):
 ![image](https://github.com/user-attachments/assets/fa4c1dc1-65b5-4281-af0f-67df3e0389c1)
 
 
+# buckets.py
+This script outputs the prime and non-prime counts for each bucket in the specified format, iterating from 1 bucket to 16 buckets.
 
