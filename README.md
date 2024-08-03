@@ -17,16 +17,16 @@ n_points = 1000
 
 ![image](https://github.com/user-attachments/assets/f5fae944-6ed3-4eab-890f-2b90699e6117)
 
-n_points = 1000
+n_points = 10000
 
 
 ![image](https://github.com/user-attachments/assets/ebf9a691-ec32-41e0-a595-0a392590e2c4)
 
-n_points = 10000
+n_points = 100000
 
 ![image](https://github.com/user-attachments/assets/412de059-209f-48c0-977c-96ef05894316)
 
-n_points = 10000
+n_points = 100000
 
 # dual_3d_spirals.py
 
@@ -60,3 +60,9 @@ view from the bottom of the 10k dual spiral:
 A 3 dimnesional quadra spiral of alternating numbers where non-prime numbers are represented as gray dots and prime numbers as black dots
 
 ![image](https://github.com/user-attachments/assets/c121062f-03d9-422e-bf71-d6393d0aa448)
+
+n_points = 1000
+
+![image](https://github.com/user-attachments/assets/3b6f7503-3c6e-40ad-b1f6-a1fa9760133f)
+
+n_points = 10000
