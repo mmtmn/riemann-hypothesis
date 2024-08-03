@@ -9,3 +9,8 @@ A 3 dimnesional spiral of numbers where non-prime numbers are represented as gra
 ![image](https://github.com/user-attachments/assets/52ef5316-e93f-402e-9dfd-7a43b72ab07b)
 
 n_points = 1000
+
+
+![image](https://github.com/user-attachments/assets/f5fae944-6ed3-4eab-890f-2b90699e6117)
+
+n_points = 1000
