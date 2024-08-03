@@ -194,4 +194,7 @@ a script that generates more data and faster data compared to training.py
 # rnn_rieman.c (10k zeros)
 
 much better perfomance, but much slower training
+
 ![image](https://github.com/user-attachments/assets/2903fc91-85a2-4148-a22f-45fb16f69f62)
+
+![image](https://github.com/user-attachments/assets/a298fbe2-7e0b-412c-a6bd-85927aa46a5e)
