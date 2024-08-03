@@ -83,3 +83,15 @@ A 3 dimnesional outwards quadra spiral of alternating numbers where non-prime nu
 ![image](https://github.com/user-attachments/assets/cdfc6646-b459-43a9-a2a1-7884dedb7a44)
 
 n_points = 1000
+
+![image](https://github.com/user-attachments/assets/0c9f8a37-079e-4888-8263-fd16580546b0)
+
+n_points = 10000
+
+![image](https://github.com/user-attachments/assets/a41b1029-bc21-4a3b-84cd-e7c0e0a92901)
+
+n_points = 100000
+
+![image](https://github.com/user-attachments/assets/8bc9a2f3-f7fc-4316-a43d-fcd359f18dae)
+
+n_points = 100000
