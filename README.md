@@ -95,3 +95,24 @@ n_points = 100000
 ![image](https://github.com/user-attachments/assets/8bc9a2f3-f7fc-4316-a43d-fcd359f18dae)
 
 n_points = 100000
+
+
+if you increase the outwards variable (z_step):
+
+![image](https://github.com/user-attachments/assets/fe8a9e0a-ee98-48f5-be22-0a9fffbef010)
+![image](https://github.com/user-attachments/assets/19794021-c766-4dd2-a910-cfb15598eca2)
+![image](https://github.com/user-attachments/assets/96ee9ad6-70fe-4574-9c43-11d6a9112f34)
+![image](https://github.com/user-attachments/assets/367972ed-8c2a-4940-883d-88baf526a500)
+
+
+# octa_3d_spirals.py
+
+![image](https://github.com/user-attachments/assets/af0adfb1-f9de-4cd0-8e90-951a1f9043db)
+![image](https://github.com/user-attachments/assets/cea1fe5c-9aa9-4d95-a5d2-c5e626a40c1f)
+
+# sexdeca_3d_spirals.py (bugged)
+
+![image](https://github.com/user-attachments/assets/fa4c1dc1-65b5-4281-af0f-67df3e0389c1)
+
+
+
