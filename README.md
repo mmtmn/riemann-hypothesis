@@ -17,7 +17,10 @@ to run the rnn: gcc -o rnn_riemann rnn_riemann.c -lm;./rnn_riemann
 
 
 
+### 8TB_training.c
 
+Warning, compiling and running this script will results in generating and storing one trillion zeros of the Riemann zeta function.
+Might be something cool to do if the means to do so :)
 
 
 
