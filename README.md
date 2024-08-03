@@ -182,3 +182,5 @@ results: not enough training data
 a script that generates the data for the rnn_riemann.c file
 
 # rnn_rieman.c (with more training data)
+
+![image](https://github.com/user-attachments/assets/bf62d06c-4457-4abb-858b-b49b9ccbd7b1)
