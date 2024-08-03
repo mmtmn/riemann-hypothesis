@@ -146,3 +146,7 @@ This code stops as soon as it finds an amount of buckets where only one bucket c
 This code stops as soon as it finds an amount of buckets where only one bucket contains all the prime numbers and no other buckets have any prime numbers.
 
 ### No experiment found where only one bucket contains all primes and no non-primes.
+
+
+# riemann.py
+this script will be checking zeros of the Riemann zeta function on the critical line, Re(s)=12Re(s)=21​. A "buckets" approach involves segmenting the range of the imaginary part of s into smaller intervals and analyzing the behavior of the zeta function within those segments.
