@@ -26,6 +26,8 @@ in the bin folder you'll find everything that is detailed bellow, which was part
 
 inside the bin folder you'll find all scripts that were used during this saturday morning exploration of the prime numbers and the riemann hypothesis.
 
+everything that is bellow is the documentation on how this repository evolved and the different experiments that were binned but were intereting none of the less.
+
 
 # spiral.py
 
