@@ -70,3 +70,8 @@ n_points = 10000
 ![image](https://github.com/user-attachments/assets/7858a54f-b6f0-49ad-bd98-422015e99f71)
 
 n_points = 100000
+
+![image](https://github.com/user-attachments/assets/1a65596e-6475-4e9d-95d1-07d6bec1c62b)
+
+n_points = 100000
+
