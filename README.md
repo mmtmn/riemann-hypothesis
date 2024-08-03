@@ -174,3 +174,11 @@ results: takes too long to train
 # rnn_riemann.c
 
 ![image](https://github.com/user-attachments/assets/2473ecea-4204-4c29-81e8-3b861bf4836d)
+
+results: not enough training data
+
+# training.py
+
+a script that generates the data for the rnn_riemann.c file
+
+# rnn_rieman.c (with more training data)
