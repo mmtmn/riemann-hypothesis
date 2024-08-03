@@ -66,3 +66,7 @@ n_points = 1000
 ![image](https://github.com/user-attachments/assets/3b6f7503-3c6e-40ad-b1f6-a1fa9760133f)
 
 n_points = 10000
+
+![image](https://github.com/user-attachments/assets/7858a54f-b6f0-49ad-bd98-422015e99f71)
+
+n_points = 100000
