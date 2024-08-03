@@ -181,6 +181,14 @@ results: not enough training data
 
 a script that generates the data for the rnn_riemann.c file
 
-# rnn_rieman.c (with more training data)
+# rnn_rieman.c (1k zeros)
 
 ![image](https://github.com/user-attachments/assets/bf62d06c-4457-4abb-858b-b49b9ccbd7b1)
+
+### results: improvment in trianing, but needs more training data, moving to a c file for training data
+
+# training.c
+
+a script that generates more data and faster data compared to training.py
+
+# rnn_rieman.c (10k zeros)
