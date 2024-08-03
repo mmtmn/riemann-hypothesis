@@ -122,10 +122,19 @@ This script outputs the prime and non-prime counts for each bucket in the specif
 
 This code stops as soon as it finds a bucket that contains all primes and no non-primes. If no such bucket is found in any configuration from 1 to 16 buckets, it will print a message stating so.
 
+
 numbers: 1000
+
 Found a bucket with all primes in 150 bucket experiment.
+
 Bucket7 has all the primes.
 
-number: 10000
+
+numbers: 10000
+
 Found a bucket with all primes in 1470 bucket experiment.
+
 Bucket1279 has all the primes.
+
+
+numbers: 100000
