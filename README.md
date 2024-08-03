@@ -28,7 +28,7 @@ n_points = 10000
 
 n_points = 10000
 
-# alternating_3d_spiral.py
+# dual_3d_spirals.py
 
 A 3 dimnesional dual spiral of alternating numbers where non-prime numbers are represented as gray dots and prime numbers as black dots
 
