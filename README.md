@@ -6,6 +6,8 @@ with 100 the error was very similar.
 with 10k, total error jumped to 19.
 
 ![image](https://github.com/user-attachments/assets/3c39475d-403a-47f7-9986-e6aabce136a2)
+![image](https://github.com/user-attachments/assets/bdab3e49-c7e5-4038-b2f4-30434a7870b5)
+
 
 more data can be generated using the training script.
 
