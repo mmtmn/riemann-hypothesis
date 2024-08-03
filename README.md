@@ -168,3 +168,9 @@ results: No zeros detected in any bucket
 
 # riemann2.py
 This script combines high-precision numerical exploration, machine learning prediction, and visualization for the Riemann Hypothesis. Focusing on increasing the learning on it.
+
+results: takes too long to train
+
+# rnn_riemann.c
+
+![image](https://github.com/user-attachments/assets/2473ecea-4204-4c29-81e8-3b861bf4836d)
