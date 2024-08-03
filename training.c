@@ -36,11 +36,11 @@ int main() {
     double zeros[NUM_ZEROS];
     find_riemann_zeros(zeros, NUM_ZEROS);
 
-    // Print the zeros formatted as a numpy array
-    printf("known_zeros = np.array([");
+    // Print the zeros formatted as a C array
+    printf("double known_zeros[] = {");
     for (int i = 0; i < NUM_ZEROS; i++) {
         if (i == NUM_ZEROS - 1) {
-            printf("%f])\n", zeros[i]);
+            printf("%f};\n", zeros[i]);
         } else {
             printf("%f, ", zeros[i]);
         }
