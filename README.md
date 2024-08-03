@@ -46,6 +46,10 @@ n_points = 10000
 
 ![image](https://github.com/user-attachments/assets/c99f0b08-e4e6-417e-8f55-94ca5994ccb1)
 
-n_points = 10000
+n_points = 100000
 
+
+view from the bottom of the 10k dual spiral:
+
+![image](https://github.com/user-attachments/assets/d93dee5b-e74d-4ba4-baa8-0be0576b61ca)
 
