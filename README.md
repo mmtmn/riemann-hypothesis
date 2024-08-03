@@ -1,6 +1,26 @@
 # rimann-hypothesis
 This repository explores a couple of experiments with prime numbers. It uses a RNN to attempt to predict the riemann hypothesis using scripts written in C.
 
+with 10 examples for the training the data the error was 200.
+with 100 the error was very similar.
+with 10k, total error jumped to 19.
+
+![image](https://github.com/user-attachments/assets/3c39475d-403a-47f7-9986-e6aabce136a2)
+
+more data can be generated using the training script.
+
+to compile the training data: gcc -o training training.c -lm;./training
+
+make sure to than copy and paste the training data into the rnn script
+
+to run the rnn: gcc -o rnn_riemann rnn_riemann.c -lm;./rnn_riemann
+
+
+
+
+
+
+
 
 in the bin folder you'll find everything that is detailed bellow, which was part of exploring different ideas until landing on the reccurent neural networks in c.
 
