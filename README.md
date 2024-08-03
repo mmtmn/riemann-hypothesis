@@ -19,3 +19,7 @@ n_points = 1000
 ![image](https://github.com/user-attachments/assets/ebf9a691-ec32-41e0-a595-0a392590e2c4)
 
 n_points = 10000
+
+
+![image](https://github.com/user-attachments/assets/412de059-209f-48c0-977c-96ef05894316)
+n_points = 10000
