@@ -75,3 +75,11 @@ n_points = 100000
 
 n_points = 100000
 
+
+# outwards_quadra_3d_spirals.py
+
+A 3 dimnesional outwards quadra spiral of alternating numbers where non-prime numbers are represented as gray dots and prime numbers as black dots
+
+![image](https://github.com/user-attachments/assets/cdfc6646-b459-43a9-a2a1-7884dedb7a44)
+
+n_points = 1000
