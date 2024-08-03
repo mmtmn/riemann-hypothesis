@@ -157,4 +157,9 @@ This script combines high-precision numerical exploration, machine learning pred
 ![image](https://github.com/user-attachments/assets/2ed90841-31e2-4218-bd49-12c37f481c3d)
 ![image](https://github.com/user-attachments/assets/63d79050-3b88-44de-a32a-da5682ada33c)
 
+# rbuckets.py
+This script visualizes and tests the alternating buckets and spirals approach numerically, which might offer some insights.
 
+![image](https://github.com/user-attachments/assets/c42f517e-f399-4cef-bcc5-60480a2ea0b9)
+
+![image](https://github.com/user-attachments/assets/b98876e6-d464-4e8e-bcf2-e4932a3f11a9)
