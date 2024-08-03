@@ -118,3 +118,10 @@ if you increase the outwards variable (z_step):
 # buckets.py
 This script outputs the prime and non-prime counts for each bucket in the specified format, iterating from 1 bucket to 16 buckets.
 
+# buckets_checker.py
+
+This code stops as soon as it finds a bucket that contains all primes and no non-primes. If no such bucket is found in any configuration from 1 to 16 buckets, it will print a message stating so.
+
+
+Found a bucket with all primes in 150 bucket experiment.
+Bucket7 has all the primes.
