@@ -23,6 +23,7 @@ Warning, compiling and running this script will results in generating and storin
 Might be something cool to do if the means to do so :)
 
 
+### end of main repository, from now on its only files in the bin folder.
 
 
 in the bin folder you'll find everything that is detailed bellow, which was part of exploring different ideas until landing on the reccurent neural networks in c.
