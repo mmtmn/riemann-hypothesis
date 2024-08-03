@@ -127,4 +127,5 @@ Found a bucket with all primes in 150 bucket experiment.
 Bucket7 has all the primes.
 
 number: 10000
-No single bucket with all primes found.
+Found a bucket with all primes in 1470 bucket experiment.
+Bucket1279 has all the primes.
